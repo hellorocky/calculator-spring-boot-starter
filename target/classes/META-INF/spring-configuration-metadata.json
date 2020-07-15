@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "calculator",
+      "type": "com.rockywu.CalculatorProperties",
+      "sourceType": "com.rockywu.CalculatorProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "calculator.times",
+      "type": "java.lang.Double",
+      "sourceType": "com.rockywu.CalculatorProperties",
+      "defaultValue": 1
+    }
+  ],
+  "hints": []
+}
