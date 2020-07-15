@@ -1,7 +1,5 @@
 package com.rockywu;
 
-import org.springframework.core.io.support.SpringFactoriesLoader;
-
 public class CalculatorService {
     private Double times;
 
